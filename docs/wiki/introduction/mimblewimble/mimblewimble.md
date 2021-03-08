@@ -107,7 +107,7 @@ If we want this transaction to sum to 0, it would look like this:
 
 :   | Inputs               | Outputs             |
     | :------------------: | :-----------------: |
-    | 28*G + 3*H.          | 28*G + 3*H  |
+    | 28 * G + 3 * H.      | 28*G + 3*H  |
 
 !!! note ""
     Remember that a blinding factor also acts as a private key.
